@@ -1,0 +1,3 @@
+Este archivo lee los algos de la 1785 y te dice cuales te faltan por mandar. Es sepescifico de FINAMEX, pero podría servir de futuras refereicas.
+
+Básicamente la ides es que lee todo del dix y compara los algos vivos muertos vs una lista de algos que si o si tienes que tener vivos.
